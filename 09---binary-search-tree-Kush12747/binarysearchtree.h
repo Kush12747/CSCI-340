@@ -1,7 +1,6 @@
 /**
 *   Kush Gandhi
-*   z1968933
-*   CSCI-340 section harper
+*   CSCI-340
 *   Assignment 9
 *   11/14/22
 *   
