@@ -1,5 +1,4 @@
 /*  Kush Gandhi
-*   z1968933
 *   CSCI 340-PE1
 *   Assignment 2
 *   9/12/2022
