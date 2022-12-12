@@ -1,6 +1,5 @@
 /*
 *   Kush Gandhi
-*   z1968933
 *   CSCI 340-PE1 section harper
 *   Assignment 3
 *   Due Date: 9/19/22
