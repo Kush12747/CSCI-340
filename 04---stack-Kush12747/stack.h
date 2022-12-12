@@ -1,7 +1,6 @@
 /**
  *  Kush Gandhi
- *  z1968933 
- *  CSCI 340-PE1 section Harper
+ *  CSCI 340-PE1
  *  9/26/22
  * 
  *  I certify that this is my own work and where appropriate an extension
